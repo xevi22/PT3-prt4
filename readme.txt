@@ -1,0 +1,1 @@
+Primera línia del fitxer
