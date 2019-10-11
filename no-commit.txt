@@ -1,0 +1,1 @@
+Aquest fitxer no hauria d'estar en el commit
